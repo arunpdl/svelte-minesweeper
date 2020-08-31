@@ -1,4 +1,4 @@
-# svelte-minesweeper
+# Svelte Minesweeper
 
 Minesweeper game built on Svelte.
 ----------
